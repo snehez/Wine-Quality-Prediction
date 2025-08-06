@@ -1,5 +1,5 @@
 # 🍷 Wine Quality Prediction
-
+📷 Project Cover: ![Wine Quality Prediction](https://github.com/snehez/Wine-Quality-Prediction/blob/main/Wine%20Quality%20Prediction.png)
 This project focuses on predicting the quality of wine based on its physicochemical characteristics using machine learning techniques. It applies data preprocessing, exploratory data analysis (EDA), and classification models to build a predictive system for wine quality.
 
 
